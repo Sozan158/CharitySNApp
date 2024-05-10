@@ -1,0 +1,2 @@
+# CharitySNApp
+Charity Social Network
